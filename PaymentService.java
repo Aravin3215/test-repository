@@ -26,4 +26,5 @@ public class PaymentService {
     private String fetchFromDb(String id) throws Exception {
         throw new Exception("DB error");
     }
+    
 }
